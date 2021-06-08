@@ -17,7 +17,7 @@
 </p>
 
 ## :page_facing_up: Descrição
-Nesse desafio foi preciso migrar toda a aplicação de JavaScript e Class Components para TypeScript e Function Components. Essa aplicação é um simulado de um e-commerce com pizzas onde é possível postar, editar ou excluir cards controlando se está disponível ou indisponível.
+Nesse desafio foi preciso migrar toda a aplicação de JavaScript e Class Components para TypeScript e Function Components. Essa aplicação simula um cardápio de pizzas onde é possível adicionar, editar ou excluir cards controlando se está disponível ou indisponível.
 
 ## 🛠 Tecnologias
 Este projeto foi desenvolvido com as seguintes tecnologias
